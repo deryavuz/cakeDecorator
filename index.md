@@ -1,9 +1,23 @@
 # cakeDecorator
 
-# Our initial developments & Milestone 1!
-We have built our syringe structure with a vertical gear involved, which will serve to push the frosting down towards the hole on the bottom of the syringe to decorate the cake. The syringe is not stable as of now but we will stabilize it using the new CAD's that we will make and also will work in RPL.
 
-A stepper motor is attached to the arc of the vertical gear, to automate the turning motion. 
 
 # Milestone 2 & recent developments!
+
+Our milestone 2 was to build the 3D printing mechanism using stepper motors and our microcontroller circuit. We have attached the stepper motor to the mbed and made the necessary connections. We have also laser cutted our new CAD, we have improved our vertical gear with stabilizer MDF pieces cut with the RPL lab as well, and ensured that we have a empty spot where the stepper motor can stay in within the MDF. 
+
+# Our initial developments & Milestone 1!
+
+We are building a cake decorator with a turntable and two decorator types, one for the sprinkles and the other for the frosting itself. We are using a syringe for our frosting spreader mechanism, tied to a stepper motor and powered by the turning motion of the stepper. Our turntable, as both of our baseline goals, will be turning with a stepper motor as well. 
+
+We have built our syringe structure with a vertical gear involved, which will serve to push the frosting down towards the hole on the bottom of the syringe to decorate the cake. The syringe is not stable as of now but we will stabilize it using the new CAD's that we will make and also will work in RPL.
+
+A stepper motor is attached to the arc of the vertical gear, to automate the turning motion.
+
+We have built our syringe in the RPL lab but our first prototype was not as we expected it to be: the syringe mechanism was not working well, the vertical gear was not fit into the place, there was no room for the stepper motor to stand while controllig the vertical gear.
+
+# Introduction & Goal statement!
+
+We plan on making a automated cake decorator that places frosting and sprinkle patterns on a baked cake. The cake will be placed on top of a “plate” that moves along a mechanical coordinate-system based track/conveyor belt . The design is based on user-inputted designs (i.e. sprinkles in a circle, sprinkles in a rectangle, frosting, frosting peaks at center, frosting circle, etc.). Given this input, our plate will move along the tracks, and for circular designs, the plate will spin from servo movement and ping-sensors that track distance. We plan on making a servo-controlled syringe to squeeze out the frosting and deposit other toppings.
+
 
