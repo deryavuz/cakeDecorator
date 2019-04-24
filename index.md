@@ -1,8 +1,14 @@
 # cakeDecorator
 
+# Thinking more about the reach goals & getting our baseline ready! 4/24/2019
+
+We have been talking to our mentor for a while and we are thinking about how to integrate our reach goals into our project. One feasible idea we had was to introduce a push button functionality, which would take in user input thus would potentially change the speed of the stepper motor thus the speed at which the syringe pushes down the frosting, or the speed at which the stepper motor attached to the turntable turns.
+
 # New reach goal added & new RPL laser cutted mechanism! 4/22/2019
 
 After talking to our project mentor, we have decided to update our reach goal to further integrate the microcontroller mbed into our project, we have ordered a OV7670 camera with CMOS and FIFO integration to be hooked up onto the MBED and as a reach goal, would do color detection on our cake, determining if the cake has frosting spread out evenly, which would serve as a redundancy check and provide the feedback mechanism needed so that the syringe can operate based on the feedback generated from the camera view. 
+
+We have modified our stepper motor code to account for the functionality of the single stepper motor, attached to a little slot we designed for it connected to the vertical gear, which sits stable in the syringe. 
 
 # Milestone 2 & recent developments! 4/19/2019
 
