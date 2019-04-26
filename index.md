@@ -14,6 +14,8 @@ We have modified our stepper motor code to account for the functionality of the 
 
 Our milestone 2 was to build the 3D printing mechanism using stepper motors and our microcontroller circuit. We have attached the stepper motor to the mbed and made the necessary connections. We have also laser cutted our new CAD, we have improved our vertical gear with stabilizer MDF pieces cut with the RPL lab as well, and ensured that we have a empty spot where the stepper motor can stay in within the MDF. 
 
+![Image of First Build](https://deryavuz.github.com/cakeDecorator/final1.png)
+
 # Our initial developments & Milestone 1! 4/17/2019
 
 We are building a cake decorator with a turntable and two decorator types, one for the sprinkles and the other for the frosting itself. We are using a syringe for our frosting spreader mechanism, tied to a stepper motor and powered by the turning motion of the stepper. Our turntable, as both of our baseline goals, will be turning with a stepper motor as well. 
