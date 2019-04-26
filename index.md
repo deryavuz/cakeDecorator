@@ -14,7 +14,7 @@ We have modified our stepper motor code to account for the functionality of the 
 
 Our milestone 2 was to build the 3D printing mechanism using stepper motors and our microcontroller circuit. We have attached the stepper motor to the mbed and made the necessary connections. We have also laser cutted our new CAD, we have improved our vertical gear with stabilizer MDF pieces cut with the RPL lab as well, and ensured that we have a empty spot where the stepper motor can stay in within the MDF. 
 
-![Image of First Build](https://deryavuz.github.com/cakeDecorator/final1.png)
+![Image of First Build](https://deryavuz.github.com/cakeDecorator/final1.jpg)
 
 # Our initial developments & Milestone 1! 4/17/2019
 
