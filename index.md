@@ -1,4 +1,9 @@
-# cakeDecorator
+# Frosty: The Cake Decorator!
+# Frosty is a pancake decorating machine, with various types of sprinkles, frosting and decorations as options for customization.
+
+# Baseline demo progress & Feedback 4/27/2019
+
+We plan to demo our syringe and our turntable working in full function, with a little slit cut into our base to spread the frosting as the syringe pushes it down, and the turntable turns thus we do not have to use the plastic spreader which can stay attached.
 
 # Thinking more about the reach goals & getting our baseline ready! 4/24/2019
 
@@ -25,6 +30,10 @@ We have built our syringe structure with a vertical gear involved, which will se
 A stepper motor is attached to the arc of the vertical gear, to automate the turning motion.
 
 We have built our syringe in the RPL lab but our first prototype was not as we expected it to be: the syringe mechanism was not working well, the vertical gear was not fit into the place, there was no room for the stepper motor to stand while controllig the vertical gear.
+
+# Conceptual Clarifications & Ideas and Goals 4/4/2019
+
+Frosty is a pancake decorating machine, with various types of sprinkles, frosting and decorations as options for customization. We plan on making a automated cake decorator that places frosting and sprinkle patterns on a baked cake, a thinner care like a pancake or a cookie cake. The cake will be placed on top of a “plate” that moves along a mechanical turnrtable, controlled by a stepper motor. We have designed a syringe mechanism using gears to be controlled by a stepper motor to squeeze frosting on the cake. A servo-controlled sprinkle chooser mechanism will let us use toppings of our choice depending on the hole size: cereal, sprinkles etc. 
 
 # Introduction & Goal statement! 4/4/2019
 
