@@ -1,6 +1,23 @@
 # Frosty: The Cake Decorator!
 # Frosty is a pancake decorating machine, with various types of sprinkles, frosting and decorations as options for customization.
 
+# Parts List / Current and Updating!
+
+**Mechanical (These are mostly RPL’ed with laser cutters.)**
+1) Approximately ~30 sheets combined of MDF and Acrylic<br />
+_~10 sheets of Acrylic, ¼ inch and ⅛ inch varying in size, smoke and black color<br />
+~15 sheets of MDF, ¼ inch, smoke color._<br />
+2) Vertical gears cut from ⅛ inch black color Acrylic<br />
+3) Fake cake cut from ⅛ inch black <br />
+4) Sprinkle decorators cut from ⅛ inch MDF smoke color<br />
+**Electronical**<br />
+1) 2 stepper motors (NEMA 17 bipolar 1.65"x1.65"x1.57" 4-wire) Datasheet: https://www.omc-stepperonline.com/download/23HS45-4204S.pdf <br />
+2) 1 continuous rotation Servo Motor (SunFounder Metal Gear Digital RC Servo) Datasheet: http://wiki.sunfounder.cc/index.php?title=55g_Metal_Gear_Servo <br />
+3) MBED LPC1768 Microcontroller Unit. Datasheet: https://www.nxp.com/docs/en/data-sheet/LPC1769_68_67_66_65_64_63.pdf<br />
+4) Push Buttons (C&K Switches, Tactile Switch) 
+Datasheet: https://www.mouser.com/datasheet/2/60/pts645-1382776.pdf<br />
+
+
 # Baseline demo progress & Feedback 4/27/2019
 
 We plan to demo our syringe and our turntable working in full function, with a little slit cut into our base to spread the frosting as the syringe pushes it down, and the turntable turns thus we do not have to use the plastic spreader which can stay attached.
