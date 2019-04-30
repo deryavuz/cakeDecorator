@@ -10,12 +10,14 @@ _~10 sheets of Acrylic, ¼ inch and ⅛ inch varying in size, smoke and black co
 2) Vertical gears cut from ⅛ inch black color Acrylic<br />
 3) Fake cake cut from ⅛ inch black <br />
 4) Sprinkle decorators cut from ⅛ inch MDF smoke color<br />
+5) Linear Actuator with metal frames. <br />
 **Electronical**<br />
 1) 2 stepper motors (NEMA 17 bipolar 1.65"x1.65"x1.57" 4-wire) Datasheet: https://www.omc-stepperonline.com/download/23HS45-4204S.pdf <br />
 2) 1 continuous rotation Servo Motor (SunFounder Metal Gear Digital RC Servo) Datasheet: http://wiki.sunfounder.cc/index.php?title=55g_Metal_Gear_Servo <br />
 3) MBED LPC1768 Microcontroller Unit. Datasheet: https://www.nxp.com/docs/en/data-sheet/LPC1769_68_67_66_65_64_63.pdf<br />
 4) Push Buttons (C&K Switches, Tactile Switch) 
 Datasheet: https://www.mouser.com/datasheet/2/60/pts645-1382776.pdf<br />
+5) LM741 Op Amps (x2) Datasheet: http://www.ti.com/lit/ds/symlink/lm741.pdf <br />
 
 # Our Next Goals for the Reach Demo & changing our designs! 4/30/2019
 
