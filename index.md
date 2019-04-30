@@ -17,10 +17,22 @@ _~10 sheets of Acrylic, ¼ inch and ⅛ inch varying in size, smoke and black co
 4) Push Buttons (C&K Switches, Tactile Switch) 
 Datasheet: https://www.mouser.com/datasheet/2/60/pts645-1382776.pdf<br />
 
+# Our Next Goals for the Reach Demo & changing our designs! 4/30/2019
+
+1) Get the linear actuator to work in such a way that it moves up and down in a calibrated speed, integrated with the MBED if possible, through an H-Bridge or some other relay-powered circuit structure. <br />
+2) Get the vertical gear structure working in such a way that a spreader blade should be attached to it, and the gear shout lower it up and down towards the cake when prompted. <br />
+3) Change the base and mount it below the actuator.<br />
+4) Put the servo motor and the stepper motor on the new base, and calibrate the spreading blade lowering with the turning of the turntable, also get the servo motor turning in the range we want to turn so that sprinkles can fall through the little slit that opens up and closes with the movement state. <br />
 
 # Baseline demo progress & Feedback 4/27/2019
 
 We plan to demo our syringe and our turntable working in full function, with a little slit cut into our base to spread the frosting as the syringe pushes it down, and the turntable turns thus we do not have to use the plastic spreader which can stay attached.
+
+We plan to demo our syringe and our turntable working in full function, with a little slit cut into our base to spread the frosting as the syringe pushes it down, and the turntable turns thus we do not have to use the plastic spreader which can stay attached. 
+Our baseline demo did not meet the par just yet, and we have decided to switch our design a lot to make this project work the way we want it to work : produce cake decorations!<br />
+
+We have acquired a linear actuator from last year's projects which we have placed out base on top and then mounted it to a stand. Our work in this design is explained further in the reach demo section.<br />
+
 
 # Thinking more about the reach goals & getting our baseline ready! 4/24/2019
 
