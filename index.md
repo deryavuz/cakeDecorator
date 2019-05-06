@@ -18,6 +18,31 @@ _~10 sheets of Acrylic, ¼ inch and ⅛ inch varying in size, smoke and black co
 4) Push Buttons (C&K Switches, Tactile Switch) 
 Datasheet: https://www.mouser.com/datasheet/2/60/pts645-1382776.pdf<br />
 5) LM741 Op Amps (x2) Datasheet: http://www.ti.com/lit/ds/symlink/lm741.pdf <br />
+6) Panasonic Relay DS2E-S-12 Non-Latching Relay Datasheet: https://docs-emea.rs-online.com/webdocs/1061/0900766b81061f6a.pdf <br />
+7) IRF510PBF IRF510 Power MOSFET N-Channel Datasheet: https://www.amazon.com/IRF510PBF-IRF510-Power-N-Channel-transistor/dp/B00I6IAGCA <br />
+
+
+# What we have learned from this project! 5/5/2019
+
+It is really important to think about a feasible design for the idea had in mind before proceeding full on with the production of this design and bringing it to life. We have struggled a lot and lost a lot of time in the process of trying to make the vertical gear work in the syringe structure, and couldn't get it to apply enough pressure until we got the actuator. One of the lessons we have learned is to better design our product, at least have a better idea of its features and do more extensive research about it and visualize it better. <br /> 
+Although we were not able to demonstrate a complete product with our reach goals included in it, we have put so much effort into testing and making our product, long hours spent with testing and adapting our design choices. Sometimes we had to toss everything and start over from the beginning, and recut our entire project. <br /> 
+
+# Reach Demo Recap and our Reflections on our Design 5/3/2019
+
+At this point, our final product looks so much more different than how it looked in the first place when we have just started working on it.  
+
+We have presented our final product which was partly unfinished due to technical difficulties and design choices which will be explained further in this section. Our final demo-ed product can be seen in the pictures: it involves the linear actuator squeezing out the frosting bag, the servo making 45-degree angled rotations back and forth to allow the sprinkles to come out, the vertical gear tied to the stepper motor moving the spreader blade up and down to spread the frosting over the cake, and the fake-cake we have cut from RPL turning on our turntable with the stepper motor attached to it. To supply power for the linear actuator and to ensure that it moves up and down in a certain range we have determined so that it could apply appropriate pressure to the frosting bag to squeeze frosting out of the little hole we have drilled in RPL into the base, we needed to supply 1A at the very least to the actuator, which operated on 12Volts. Thus we had to build an H-Bridge to amplify our signal voltage the output of which we would connect to the actuator and integrate our H-Bridge with our MBED which could move the actuator only to one direction: upwards or downwards.  <br /> 
+
+Due to the time constraints, we were not able to further work on the project to perfect it but our next step would be to mimic the H-Bridge structure for the opposite side of movement for the actuator, so we would build another H-Bridge exactly like the one we have got to work for the upwards movement of the actuator so we would achieve continuous movement to push the frosting down out the hole in the bag. <br /> 
+
+# Reach Demo: Problems we have faced 5/2/2019
+
+
+1) We have stuck with a faulty design structure from the beginning which was the vertical gear syringe structure and tried to improve it in many ways. The mounting of the syringe to the base was almost impossible, since the holes of the base were hard for the syringe to go through to stabilize, and this design choice made filling the syringe really hard. Also the syringe did not have enough power and couldn't provide enough pressure to squeeze the frosting out. <br />  
+2) The linear actuator idea and the actual mechanism was provided to us very late in the project's process (approximately two days before the demo was due) thus we did not really have the time nor the expertise to operate the mechanism properly and test it with our previous setup with the steppers and the servo, thus integrate it into our system. <br /> 
+3) The actuator got physically stuck right before the demo, and we were unable to get it to move although the other parts of our project were functioning: the turntable was turning with the stepper motor, sprinkles were getting scattered over the fake-cake with the servo motor, and the vertical gear was lowering the spreader blade. Thus our demo was incomplete and we felt really disappointed by that.
+<br /> 
+
 
 # Our Next Goals for the Reach Demo & changing our designs! 4/30/2019
 
